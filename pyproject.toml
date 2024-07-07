@@ -1,5 +1,5 @@
 [tool.poetry]
-name = "key-locker"
+name = "async-key-locker"
 version = "0.1.0"
 description = ""
 authors = ["megahomyak <g.megahomyak@gmail.com>"]
